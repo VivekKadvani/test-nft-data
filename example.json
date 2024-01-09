@@ -1,8 +1,7 @@
 {
-"name": "
-Vivek Kadvani Token",
-    "symbol": "VKT",
-    "description": "A test for our NFT example.",
+"name": "Vivek Kadvani Token",
+"symbol": "VKT",
+"description": "A test for our NFT example.",
 external_url: "https://twitter.com/ThinTallTee",
 seller_fee_basis_points: 0,
 image: "https://bafybeie2j3csxyr6zmfeupk2cdubfcuzphs26f7ggm7pg7t3kmicaurhyi.ipfs.nftstorage.link/5554.png?ext=png",
