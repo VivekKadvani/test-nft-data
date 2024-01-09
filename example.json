@@ -1,7 +1,42 @@
 {
-    "name": "YouTube",
-    "symbol": "TUBE",
+"name": "
+Vivek Kadvani Token",
+    "symbol": "VKT",
     "description": "A test for our NFT example.",
-    "seller_fee_basis_points": 5,
-    "image": "https://avatars.githubusercontent.com/u/122602349?v=4"
+external_url: "https://twitter.com/ThinTallTee",
+seller_fee_basis_points: 0,
+image: "https://bafybeie2j3csxyr6zmfeupk2cdubfcuzphs26f7ggm7pg7t3kmicaurhyi.ipfs.nftstorage.link/5554.png?ext=png",
+attributes: [
+{
+trait_type: "Background",
+value: "Varden"
+},
+{
+trait_type: "Body",
+value: "Robot"
+},
+{
+trait_type: "Clothes",
+value: "White Space Doodle Sweater"
+}
+],
+collection: {
+name: "Froganas",
+family: "Froganas"
+},
+properties: {
+files: [
+{
+uri: "https://bafybeie2j3csxyr6zmfeupk2cdubfcuzphs26f7ggm7pg7t3kmicaurhyi.ipfs.nftstorage.link/5554.png?ext=png",
+type: "image/png"
+}
+],
+category: "image",
+creators: [
+{
+address: "3Xawf7YQAySP2yUUuA4Na2ErSMErM3HhoD7Si5UbkLP1",
+share: 100
+}
+]
+}
 }
